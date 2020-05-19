@@ -1,1 +1,1 @@
-key = "{YOUR_API_KEY}"
+key = "AIzaSyAwkLoa9Jqm9CGWuFIpMgd0QCmBD3Ev8Q0"
